@@ -1,3 +1,3 @@
 # Hello
 
-Thanks for seeing my profile, please check out my [Gitea account](https://gitea.com/thisago)
+Thanks for seeing my profile, please see my more active [Gitea account](https://gitea.com/thisago)
