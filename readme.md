@@ -9,3 +9,5 @@ Please see my [Gitea profile](https://gitea.com/thisago)
 
 Thanks for viewing my profile!
 Have a great day!
+
+<img align="center" src="https://komarev.com/ghpvc/?username=thisago&color=grey">
