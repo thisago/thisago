@@ -1,6 +1,6 @@
 # Hello
 
-I like [Nim](https://nim-lang.org)!
+I code mostly in [Nim](https://nim-lang.org)!
 
 Please see my [Gitea profile](https://gitea.com/thisago)
 
