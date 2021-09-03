@@ -1,10 +1,10 @@
 # Hello
 
-I code mostly in [Nim](https://nim-lang.org)!
+### Main languages migration history
 
-### My programming language migrations:
+`C++` **->** `PHP` **->** `JS` **->** `TS` **->** `Nim`
 
-C++ -> PHP -> JS -> TS -> Nim
+Now I use mainly Nim, a bit of PHP and C++ for work.
 
 See my [Gitea profile](https://gitea.com/thisago)!
 
