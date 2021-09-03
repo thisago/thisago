@@ -4,7 +4,7 @@
 
 `C++` **->** `PHP` **->** `JS` **->** `TS` **->** `Nim`
 
-Now I use mainly Nim, a bit of PHP and C++ for work.
+Now, for work, I use mainly Nim, a bit of PHP and C++.
 
 See my [Gitea profile](https://gitea.com/thisago)!
 
