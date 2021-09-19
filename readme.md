@@ -13,4 +13,4 @@ Now, for work, I use mainly Nim, a bit of PHP, C++ and JS.
 
 <!-- Have a great day! -->
 
-<img style="float:right;" src="https://komarev.com/ghpvc/?username=thisago&color=grey">
+<img src="https://komarev.com/ghpvc/?username=thisago&color=grey">
