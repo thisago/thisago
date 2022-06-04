@@ -1,8 +1,8 @@
 # Hello
 
-### Main languages migration history
+### Main languages learning progress
 
-`C++` **->** `PHP` **->** `JS` **->** `TS` **->** `Nim`
+`C++` **->** `PHP` **->** `Javascript` **->** `Typescript` **->** `Nim`
 
 Now, for work, I use mainly Nim, a bit of PHP, C++ and JS.
 
