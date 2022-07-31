@@ -22,7 +22,7 @@
         <a target="_blank" href="http://link.oxyoy.com/?eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWwuY29tL2RvbmF0ZS8/aG9zdGVkX2J1dHRvbl9pZD1SRlBVVk01M0pFWjlKIiwiaGFzaCI6IjM4NDEzMTMyLjc5MyJ9"><img title="Support me in PayPal" src="https://img.shields.io/static/v1?label=Donate&message=PayPal&logo=paypal&style=for-the-badge&color=012169" alt="Patreon"></a>
       </div>
     -->
-    <div><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=f78166&style=flat-square"
+    <div><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=000000&style=flat-square"
       alt="thisago" /></div>
     <hr>
     <h3>All glory to YAHUAH</h3>
