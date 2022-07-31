@@ -13,9 +13,8 @@
     </details>
 </div>
 <br>
-
-<hr>
 <!--
+<hr>
 <div align="center">
   <h2>Support me</h2>
   <a target="_blank" href="http://link.oxyoy.com/?eyJ1cmwiOiJodHRwczovL2J1eW1lYWNvZmZlZS5jb20vdGhpc2FnbyIsImhhc2giOiIxODAwLjYzNzgwNzkifQ=="><img title="Support me in Buymeacoffee" src="https://img.shields.io/static/v1?label=Donate&message=Buymeacoffee&logo=buymeacoffee&style=for-the-badge&color=ffdd00" alt="Buymeacoffee"></a>
