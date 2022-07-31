@@ -1,5 +1,6 @@
 <h1 align="center">Hi, my name is Thiago</h1>
-<h3 align="center">I love open source</h3>
+<h3 align="center">I'm happy that you reached here!</h3>
+What about explore a little bit?
 <div align="center"><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=f78166&style=flat-square" alt="thisago"/></div>
 
 <br><br>
