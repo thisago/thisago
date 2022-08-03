@@ -10,6 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=thisago&show_icons=true&theme=dark">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisago&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisago&theme=dark&layout=compact">
+    <img src="https://activity-graph.herokuapp.com/graph?username=thisago&theme=xcode&area=true">
   </details>
   <br>
   <!--
