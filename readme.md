@@ -24,7 +24,7 @@
       </div>
     -->
     <div><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=000000&style=flat-square"
-      alt="thisago" /></div>
+      alt="Visits counter" title="Visits counter" /></div>
     <hr>
     <h3>All glory to YAHUAH</h3>
 </div>
