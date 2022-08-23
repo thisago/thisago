@@ -26,5 +26,5 @@
     <div><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=000000&style=flat-square"
       alt="Visits counter" title="Visits counter" /></div>
     <hr>
-    <h3>All glory to YAH</h3>
+    <h3>All glory to YAHUAH</h3>
 </div>
