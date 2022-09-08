@@ -1,6 +1,7 @@
 <div align=center>
   <h1>Hi, my name is Thiago</h1>
   <h3>I'm happy that you reached here!</h3>
+  <p>Want to hire me? <a href="https://go.thisago.co/site">https://thisago.co</a></p>
   What about explore a little bit?
 
   <br><br>
