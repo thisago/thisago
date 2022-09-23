@@ -6,5 +6,3 @@ some of the reasons why GitHub is not a good place to host FOSS projects.
 
 Any use of the code of our projects by GitHub Copilot, past or present, is done
 without our permission.
-
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
