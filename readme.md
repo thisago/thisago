@@ -1,4 +1,4 @@
-# Go to my [Gitea instance](https://git.ozzuu.com) to see my projects
+# Go to my [Gitea instance](https://git.ozzuu.com/thisago) to see my projects
 
 GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS). Read about the [Give up GitHub](https://GiveUpGitHub.org) campaign to understand
