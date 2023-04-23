@@ -1,1 +1,1 @@
-# Migrated to a [selfhosted Gitea](https://git.ozzuu.com/thisago)
+# Migrated to my own [selfhosted Gitea](https://git.ozzuu.com/thisago)
