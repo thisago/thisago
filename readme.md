@@ -1,7 +1,7 @@
 <div align=center>
   <h1>I'm Thiago!</h1>
   <h4>
-    See my blog at <a href="https://blog.thisago.com" target="_blank">blog.thisago.com</a>!
+    See my blog at <a href="http://blog.thisago.com" target="_blank">blog.thisago.com</a>!
   </h4>
   <br>
 
