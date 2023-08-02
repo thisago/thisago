@@ -1,8 +1,10 @@
 <div align=center>
-  <h1>I'm Thiago</h1>
+  <h1>I'm Thiago!</h1>
+  <h4>
+    See my blog at <a href="https://blog.thisago.com" target="_blank">blog.thisago.com</a>!
+  </h4>
   <br>
 
-  **I'm creator of [Ozzuu Bible](https://bible.ozzuu.com)!**
   <details>
     <summary>See my stats</summary>
     <img src="https://github-profile-trophy.vercel.app/?username=thisago&theme=onedark">
