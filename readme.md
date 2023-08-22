@@ -4,7 +4,9 @@
     See my blog at <a href="http://blog.thisago.com" target="_blank">blog.thisago.com</a>!
   </h4>
   <br>
-
+  <p>I love reverse engineering, pentesting and related things, but I'm a full stack software developer, experienced with web front and backend, desktop application developer, automation, scraping and data collection, and even IoT!</p>
+  <p>As you can see, I use a lot of Nim, but languages are tools.</p>
+  <br>
   <details>
     <summary>See my stats</summary>
     <img src="https://github-profile-trophy.vercel.app/?username=thisago&theme=onedark">
