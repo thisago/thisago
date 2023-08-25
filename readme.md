@@ -19,3 +19,5 @@
     <div><img src="https://komarev.com/ghpvc/?username=thisago&label=Profile%20views&color=000000&style=flat-square"
       alt="Visits counter" title="Visits counter" /></div>
 </div>
+
+<img src="https://github.com/thisago/thisago/assets/74574275/6fcae7a4-5df6-4fe8-b987-e9faeda8a822">
